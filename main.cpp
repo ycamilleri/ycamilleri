@@ -21,6 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
     cout<<"oui";
     cout<<"non";
+   cout <<"kjhbcvd";
     return 0;
 }
 
