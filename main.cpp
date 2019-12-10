@@ -19,7 +19,8 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout<<;
+    cout<<"oui";
+    cout<<"non";
     return 0;
 }
 
