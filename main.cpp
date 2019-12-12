@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
     cout<<"non";
    cout <<"kjhbcvd";
    cout<<"Ce que vous voulez.."<<endl;
-   cout<<"ZA WARUDO....PRFRFRFRFRRRFRFGHSSHSHSH"<<endl;
+   cout<<"ZA WARUDO....PRFRFRFRFRRRFRFGHSSHSHSHh"<<endl;
     return 0;
 }
 
