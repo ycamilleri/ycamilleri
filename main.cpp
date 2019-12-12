@@ -24,6 +24,7 @@ int main(int argc, char** argv) {
    cout <<"kjhbcvd";
    cout<<"Ce que vous voulez.."<<endl;
    cout<<"ZA WARUDO....PRFRFRFRFRRRFRFGHSSHSHSHh"<<endl;
+    cout << "Passe-tu une belle journée Démon Gorgon?" << endl;
     return 0;
 }
 
