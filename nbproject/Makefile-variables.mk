@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-Linux
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-Linux
-CND_ARTIFACT_NAME_Debug=application
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/application
+CND_ARTIFACT_NAME_Debug=ycamilleri
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-Linux/ycamilleri
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-Linux/package
-CND_PACKAGE_NAME_Debug=application.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/application.tar
+CND_PACKAGE_NAME_Debug=ycamilleri.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-Linux/package/ycamilleri.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-Linux
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-Linux
-CND_ARTIFACT_NAME_Release=application
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/application
+CND_ARTIFACT_NAME_Release=ycamilleri
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/ycamilleri
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
-CND_PACKAGE_NAME_Release=application.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/application.tar
+CND_PACKAGE_NAME_Release=ycamilleri.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/ycamilleri.tar
 #
 # include compiler specific variables
 #

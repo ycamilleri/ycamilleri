@@ -22,6 +22,7 @@ int main(int argc, char** argv) {
     cout<<"oui";
     cout<<"non";
    cout <<"kjhbcvd";
+    cout << "Passe-tu une belle journée Démon Gorgon?" << endl;
     return 0;
 }
 
